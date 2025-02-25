@@ -1,0 +1,40 @@
+Closed_Match_Movies:
+            ['Avatar', 'Gattaca']
+
+Top 30 movies suggested for you : 
+        1 . Niagara                                  16 . Alice Through the Looking Glass
+        2 . Caravans                                 17 . Superman III
+        3 . My Week with Marilyn                     18 . The Misfits
+        4 . Brokeback Mountain                       19 . Premium Rush
+        5 . Harry Brown                              20 . Duel in the Sun
+        6 . Night of the Living Dead                 21 . Sabotage
+        7 . The Curse of Downers Grove               22 . Small Soldiers
+        8 . The Boy Next Door                        23 . All That Jazz
+        9 . Back to the Future                       24 . Camping Sauvage
+        10 . The Juror                               25 . The Raid
+        11 . Some Like It Hot                        26 . Beyond the Black Rainbow
+        12 . Enough                                  27 . To Kill a Mockingbird
+        13 . The Kentucky Fried Movie                28 . World Trade Center
+        14 . Eye for an Eye                          29 . The Dark Knight Rises
+        15 . Welcome to the Sticks                   30 . Tora! Tora! Tora
+
+Enter your favourite movie name:avatar
+
+Top 10 Movies suggested for you: 
+
+1 . ['Avatar']
+2 . ['The Girl on the Train']
+3 . ['Act of Valor']
+4 . ['Donnie Darko']
+5 . ['Precious']
+6 . ['Freaky Friday']
+7 . ['The Opposite Sex']
+8 . ['Heaven is for Real']
+9 . ['Run Lola Run']
+10 . ['Elizabethtown']
+
+
+
+
+
+
